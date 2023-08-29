@@ -23,6 +23,6 @@ for i in range(1, D+1):
 	if maxID != -1:
 		Answer += maxValue
 		used[maxID] = True
-
+ 
 # 出力
 print(Answer)
